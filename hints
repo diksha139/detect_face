@@ -1,0 +1,6 @@
+python -m venv <any name of virtual environment>
+<name of virtual environment>\Scripts\activate
+
+pip install tensorflow
+pip install numpy
+pip install opencv-python
